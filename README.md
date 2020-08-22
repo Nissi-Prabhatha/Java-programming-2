@@ -25,8 +25,5 @@ a simple binary tree?
 21)Reverse a linked list
 22)Replace each element of the array by its rank in the array
 23) Check if a given graph is a tree or not
-
-Rajan Chettri : https://www.linkedin.com/in/rajan-chettri-26b04213b/
-
 24) Find out the Kth smallest element in an unsorted array
 25) How to find the shortest path between two vertices
